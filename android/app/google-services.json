@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709020047999",
+    "project_id": "slicey-b4b12",
+    "storage_bucket": "slicey-b4b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709020047999:android:bab172d11509294acabd4a",
+        "android_client_info": {
+          "package_name": "com.example.slicey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRXMRn9A7q8MGVvYNg3v5peOcRdVG9itQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
